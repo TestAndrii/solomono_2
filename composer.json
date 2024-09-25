@@ -1,0 +1,14 @@
+{
+    "name": "andrii/test2",
+    "type": "project",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Andrii Finko",
+            "email": "andrey.finko@gmail.com"
+        }
+    ],
+    "require": {
+        "kint-php/kint": "^5.1"
+    }
+}
